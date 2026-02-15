@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abishabr&label=Profile%20views&color=0e75b6&style=flat" alt="abishabr" /> </p>
 
-<h1 >Hi 👋, I'm Abrham Habtamu|| Full-Stack Web Developer | Building clean, performant, and user-focused web applications</h1>
+<h1 >Hi 👋, I'm Abrham Habtamu || Full-Stack Web Developer | Building clean, performant, and user-focused web applications</h1>
 <h4>👨‍💻 I’m an Information Technology student at Haramaya University, passionate about building creative and impactful digital solutions.</h4>
 <h4>🚀 I’m currently working on full-stack projects using React, React Native, Node.js, and modern JavaScript tools.</h4>
 <h4>🤝 I’m looking to collaborate on open-source projects that focus on education, productivity, and scalable web apps.</h4>
